@@ -21,8 +21,8 @@ standard: **use the model for judgement, then make the code check it.**
 [Statistical network analysis with ERGMs](https://github.com/Jayaramgokul/Italian-Criminal-Gangs-Network---Statistical-Network-Analysis-R-markdown-)
 
 **Toolkit:** Python · SQL · R · Claude API & MCP · scikit-learn · pandas · Streamlit · Tableau ·
-model validation (SR 11-7, PRA SS1/23) · AI governance (EU AI Act, NIST AI RMF, NIST AI 600-1 Generative AI Profile)
+model validation (SR 26-2, formerly SR 11-7; PRA SS1/23) · AI governance (EU AI Act, NIST AI RMF, NIST AI 600-1 Generative AI Profile)
 
 **Background:** FRM · MPS Applied Statistics, Cornell · BSc Mathematics, TU Dublin
 
-[LinkedIn](https://www.linkedin.com/in/jayaramgokulan)
+[LinkedIn](https://www.linkedin.com/in/jayaram-gokulan)
