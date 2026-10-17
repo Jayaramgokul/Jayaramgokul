@@ -19,7 +19,8 @@ standard: **use the model for judgement, then make the code check it.**
 | [**lse-data-analytics-career-accelerator**](https://github.com/Jayaramgokul/lse-data-analytics-career-accelerator) | Three LSE course projects, rebuilt so every number reproduces from the data: 2Market (SQL and Tableau: customers, spending and advertising channels), NHS (Python: GP appointment demand across 42 regions, plus tweet sentiment) and Turtle Games (Python and R: regression, decision trees, k-means and review sentiment). Re-checking the NHS work, I found that same-day booking is nearly half of all appointments, not the fifth my report stated. |
 
 **Earlier work:** [Finnish elections as a predator-prey system](https://github.com/Jayaramgokul/Finnish-Parliamentary-Elections---Predator-Prey-Model-Python-) ·
-[Statistical network analysis with ERGMs](https://github.com/Jayaramgokul/Italian-Criminal-Gangs-Network---Statistical-Network-Analysis-R-markdown-)
+[Statistical network analysis with ERGMs](https://github.com/Jayaramgokul/Italian-Criminal-Gangs-Network---Statistical-Network-Analysis-R-markdown-) ·
+[NLP paper critiques (Cornell, 2021)](https://github.com/Jayaramgokul/nlp-paper-critiques)
 
 **Toolkit:** Python · SQL · R · LLM APIs · scikit-learn · pandas · Tableau ·
 model validation (SR 26-2, formerly SR 11-7; PRA SS1/23) · AI governance (EU AI Act, NIST AI RMF, NIST AI 600-1 Generative AI Profile)
