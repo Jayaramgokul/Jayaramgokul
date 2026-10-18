@@ -1,6 +1,6 @@
 ### Hi, I'm Jayaram 👋
 
-I validate and build AI and quantitative models for financial services, in London.
+I validate and build AI and quantitative models for financial services.
 
 My day job is independent model validation and AI governance: testing whether
 models, including LLM-based ones, do what they claim, and whether a regulator
