@@ -20,7 +20,8 @@ standard: **use the model for judgement, then make the code check it.**
 
 **Earlier work:** [Finnish elections as a predator-prey system](https://github.com/Jayaramgokul/Finnish-Parliamentary-Elections---Predator-Prey-Model-Python-) ·
 [Statistical network analysis with ERGMs](https://github.com/Jayaramgokul/Italian-Criminal-Gangs-Network---Statistical-Network-Analysis-R-markdown-) ·
-[NLP paper critiques (Cornell, 2021)](https://github.com/Jayaramgokul/nlp-paper-critiques)
+[NLP paper critiques (Cornell, 2021)](https://github.com/Jayaramgokul/nlp-paper-critiques) ·
+[LP model for optimal net interest income (NIT Calicut / IIM Indore)](https://github.com/Jayaramgokul/lp-financial-model-net-interest-income)
 
 **Toolkit:** Python · SQL · R · LLM APIs · scikit-learn · pandas · Tableau ·
 model validation (SR 26-2, formerly SR 11-7; PRA SS1/23) · AI governance (EU AI Act, NIST AI RMF, NIST AI 600-1 Generative AI Profile)
