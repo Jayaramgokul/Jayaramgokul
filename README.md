@@ -1,4 +1,4 @@
-### Hi, I'm Jayaram & welcome to my Github Repo..
+### Welcome to my Github Repo..
 
 I validate and build AI and quantitative models for financial services.
 
